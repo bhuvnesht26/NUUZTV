@@ -70,7 +70,7 @@ username: bhuvnesht26
 repo: NUUZTV
 branch: master
 relative_source: ../NUUZTV/
-destination: ../NUUZTV-pages/
+destination: ../NUUZTV/NUUZTV-pages/
 production_url:  https://bhuvnesht26.github.io/NUUZTV/
 source_url:  https://github.com/bhuvnesht26/NUUZTV/
 
